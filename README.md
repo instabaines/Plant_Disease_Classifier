@@ -1,4 +1,8 @@
 # Plant_Disease_Classifier
 CNN for Plant disease classification with methods of visualizing convnet layers
 
-The repo featured a notebook taht contains steps to visualize and debug a CNN model.
+The repo featured a notebook that contains steps to visualize and debug a CNN model.
+
+Data Source:
+
+https://www.kaggle.com/abdallahalidev/plantvillage-dataset
